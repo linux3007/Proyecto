@@ -21,7 +21,7 @@ function downloadCustomers(){
 }
 
 function generate(){
-    const rta= downloadCustomers ();
+    const rta = downloadCustomers ();
     console.log(rta);
 }
 
